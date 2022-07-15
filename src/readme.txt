@@ -1,6 +1,8 @@
 it's first readme.txt.
 New Line.
 modified by bq online.
-modified by bq local based on branch master.
-modified by bq local hased on brance master, no2.
-modified by bq local hased on brance master, no3.
+
+modified by bq online with creates new branch & start a pull request
+modified by bq locally no1 based on JohnnyBao80-patch-1.
+modified by bq locally no1 based on JohnnyBao80-patch-1, no2.
+
